@@ -1,7 +1,5 @@
 # Explore Node.js
-b.dewhirst@gmail.com | https://www.linkedin.com/in/brian-dewhirst-phd
-
-last updated:  2024-05-16 09:00
+[my email](mailto:b.dewhirst@gmail.com) | [my LinkedIn](https://www.linkedin.com/in/brian-dewhirst-phd) | last updated:  2024-05-16 09:00
 
 ## Description
 
