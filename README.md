@@ -17,6 +17,8 @@ This project is a refresher on javascript and an exploration of JetBrains' Webst
 ## collected TODO
 * adjust git settings to preserve unix-like (\\n) line endings.
 * refresh on loading variables from a configuration file
+* clean up master v. main
+* move to doing dev in branch and merge work pattern, etc.
 
 ## current location of example script:
 
