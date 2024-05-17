@@ -1,5 +1,7 @@
 .idea/*
 .idea
 *.csv
-tmp.js
+tmp*.js
 *.mp3
+
+node_modules/*
