@@ -23,3 +23,8 @@ This project is a refresher on javascript and an exploration of JetBrains' Webst
 [Here (locally, when running)] (http://localhost:9021)
 
 (If that doesn't work, check the port in the locally imported file.)
+
+
+## important closing note:
+
+As-is, this project may have known security issues, so it shouldn't be used (as-is) where this presents issues.
